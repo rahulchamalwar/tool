@@ -1,0 +1,1 @@
+# Add your verified AdSense publisher ID to VITE_ADSENSE_PUBLISHER_ID before serving ads.

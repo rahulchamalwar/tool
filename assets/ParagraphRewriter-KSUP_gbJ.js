@@ -1,0 +1,1 @@
+import{j as r}from"./react-vendor-DvRA7UF0.js";import o from"./ToolWorkbench-BAvgGuUz.js";import"./index-BQ1JFYRu.js";/* empty css                  */function i(){return r.jsx(o,{toolId:"paragraph-rewriter"})}export{i as default};
