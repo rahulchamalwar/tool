@@ -1,0 +1,1 @@
+import{j as o}from"./react-vendor-DvRA7UF0.js";import t from"./ToolWorkbench-BAvgGuUz.js";import"./index-BQ1JFYRu.js";/* empty css                  */function e(){return o.jsx(t,{toolId:"pdf-to-jpg"})}export{e as default};
